@@ -4,7 +4,7 @@ const data = [
     title: 'trees',
     category: 'landscape',
     price: 255.99,
-    img: './images/landscape1.jpg',
+    img: '../src/images/landscape1.jpg',
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
