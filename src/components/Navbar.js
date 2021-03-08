@@ -18,7 +18,7 @@ const Navbar = () => {
     return (
         <header >
             <div className="navMain">
-                <h1>joleen steffen</h1>
+                <h1>goleen steffen</h1>
                 <button onClick={()=> setShowLinks(!showLinks)}>
                     <FaBars />                    
                 </button>
