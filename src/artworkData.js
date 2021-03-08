@@ -12,7 +12,7 @@ const data = [
     title: 'fields',
     category: 'landscape',
     price: 223.99,
-    img: '././images/landscape2.jpg',
+    img: '../src/images/homeBkg.jpg',
     desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
   },
   {
