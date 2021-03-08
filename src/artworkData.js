@@ -20,7 +20,7 @@ const data = [
     title: 'feeding time',
     category: 'animals',
     price: 196.99,
-    img: './images/animals1.jpg',
+    img: '../src/images/homeBkg.jpg',
     desc: `ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral.`,
   },
   {
