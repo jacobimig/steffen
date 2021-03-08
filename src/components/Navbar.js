@@ -18,11 +18,8 @@ const Navbar = () => {
     return (
         <header >
             <div className="navMain">
-<<<<<<< HEAD
                 <h1>joleen steffen</h1>
-=======
                 <h1>goleen steffen</h1>
->>>>>>> e218b66d25d2c55a9ec9cb4f3dff8af5359770a4
                 <button onClick={()=> setShowLinks(!showLinks)}>
                     <FaBars />                    
                 </button>
