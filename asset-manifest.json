@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/steffen/static/css/main.af975f34.chunk.css",
+    "main.js": "/steffen/static/js/main.1f758f26.chunk.js",
+    "main.js.map": "/steffen/static/js/main.1f758f26.chunk.js.map",
+    "runtime-main.js": "/steffen/static/js/runtime-main.3e96962b.js",
+    "runtime-main.js.map": "/steffen/static/js/runtime-main.3e96962b.js.map",
+    "static/js/2.91763012.chunk.js": "/steffen/static/js/2.91763012.chunk.js",
+    "static/js/2.91763012.chunk.js.map": "/steffen/static/js/2.91763012.chunk.js.map",
+    "static/js/3.c1037f0f.chunk.js": "/steffen/static/js/3.c1037f0f.chunk.js",
+    "static/js/3.c1037f0f.chunk.js.map": "/steffen/static/js/3.c1037f0f.chunk.js.map",
+    "index.html": "/steffen/index.html",
+    "static/css/main.af975f34.chunk.css.map": "/steffen/static/css/main.af975f34.chunk.css.map",
+    "static/js/2.91763012.chunk.js.LICENSE.txt": "/steffen/static/js/2.91763012.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/steffen/static/media/homeBkg.563b18b7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e96962b.js",
+    "static/js/2.91763012.chunk.js",
+    "static/css/main.af975f34.chunk.css",
+    "static/js/main.1f758f26.chunk.js"
+  ]
+}
